@@ -1,0 +1,126 @@
+2023-05-03 16:39:31.278 [main] INFO  c.f.r.engine.RuleEngineApplication - Starting RuleEngineApplication using Java 17.0.7 with PID 14112 (E:\10_git\rule-engine\target\classes started by wiljz in E:\10_git\rule-engine)
+2023-05-03 16:39:31.290 [main] INFO  c.f.r.engine.RuleEngineApplication - The following 1 profile is active: "dev"
+2023-05-03 16:39:33.072 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+2023-05-03 16:39:33.083 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+2023-05-03 16:39:33.084 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-03 16:39:33.085 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-03 16:39:33.229 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-05-03 16:39:33.232 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1827 ms
+2023-05-03 16:39:34.249 [main] INFO  o.a.catalina.core.StandardService - Stopping service [Tomcat]
+2023-05-03 16:40:07.571 [main] INFO  c.f.r.engine.RuleEngineApplication - Starting RuleEngineApplication using Java 17.0.7 with PID 14312 (E:\10_git\rule-engine\target\classes started by wiljz in E:\10_git\rule-engine)
+2023-05-03 16:40:07.577 [main] INFO  c.f.r.engine.RuleEngineApplication - The following 1 profile is active: "dev"
+2023-05-03 16:40:09.517 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+2023-05-03 16:40:09.536 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+2023-05-03 16:40:09.537 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-03 16:40:09.538 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-03 16:40:09.680 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-05-03 16:40:09.706 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1862 ms
+2023-05-03 16:40:10.639 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+2023-05-03 16:40:10.735 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+2023-05-03 16:40:10.786 [main] INFO  c.f.r.engine.RuleEngineApplication - Started RuleEngineApplication in 4.103 seconds (process running for 4.624)
+2023-05-03 16:42:01.043 [SpringApplicationShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2023-05-03 16:42:04.544 [main] INFO  c.f.r.engine.RuleEngineApplication - Starting RuleEngineApplication using Java 17.0.7 with PID 15124 (E:\10_git\rule-engine\target\classes started by wiljz in E:\10_git\rule-engine)
+2023-05-03 16:42:04.547 [main] INFO  c.f.r.engine.RuleEngineApplication - The following 1 profile is active: "dev"
+2023-05-03 16:42:06.796 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+2023-05-03 16:42:06.812 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+2023-05-03 16:42:06.813 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-03 16:42:06.814 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-03 16:42:06.942 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-05-03 16:42:06.946 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2240 ms
+2023-05-03 16:42:07.973 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+2023-05-03 16:42:08.004 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+2023-05-03 16:42:08.025 [main] INFO  c.f.r.engine.RuleEngineApplication - Started RuleEngineApplication in 4.319 seconds (process running for 4.814)
+2023-05-03 16:43:24.383 [http-nio-8000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-03 16:43:24.383 [http-nio-8000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-05-03 16:43:24.386 [http-nio-8000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 3 ms
+2023-05-03 21:48:44.426 [SpringApplicationShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-0} closing ...
+2023-05-03 22:02:07.962 [main] INFO  c.f.r.engine.RuleEngineApplication - Starting RuleEngineApplication using Java 17.0.7 with PID 15576 (E:\10_git\rule-engine\target\classes started by wiljz in E:\10_git\rule-engine)
+2023-05-03 22:02:07.968 [main] INFO  c.f.r.engine.RuleEngineApplication - The following 1 profile is active: "dev"
+2023-05-03 22:02:09.648 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.yomahub.liteflow.springboot.config.LiteflowMainAutoConfiguration' of type [com.yomahub.liteflow.springboot.config.LiteflowMainAutoConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:02:09.651 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.yomahub.liteflow.springboot.config.LiteflowPropertyAutoConfiguration' of type [com.yomahub.liteflow.springboot.config.LiteflowPropertyAutoConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:02:09.670 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'liteflow-com.yomahub.liteflow.springboot.LiteflowProperty' of type [com.yomahub.liteflow.springboot.LiteflowProperty] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:02:09.674 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'liteflow.monitor-com.yomahub.liteflow.springboot.LiteflowMonitorProperty' of type [com.yomahub.liteflow.springboot.LiteflowMonitorProperty] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:02:09.676 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'liteflowConfig' of type [com.yomahub.liteflow.property.LiteflowConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:02:09.680 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.yomahub.liteflow.spi.spring.SpringAware' of type [com.yomahub.liteflow.spi.spring.SpringAware] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:02:09.684 [main] INFO  c.yomahub.liteflow.util.LOGOPrinter - 
+================================================================================================
+		 _     ___ _____ _____      _____ _     _____        __
+		| |   |_ _|_   _| ____|    |  ___| |   / _ \ \      / /
+		| |    | |  | | |  _| _____| |_  | |  | | | \ \ /\ / / 
+		| |___ | |  | | | |__|_____|  _| | |__| |_| |\ V  V /  
+		|_____|___| |_| |_____|    |_|   |_____\___/  \_/\_/   
+
+		Version: 2.10.2
+		新一代轻量且强大的编排式规则引擎。
+		基于开源社区文化，社区驱动型开源框架。
+		Small but powerful rules engine.
+		官网地址：https://liteflow.yomahub.com/
+		wechat：bryan_31
+================================================================================================
+
+2023-05-03 22:02:10.376 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+2023-05-03 22:02:10.389 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+2023-05-03 22:02:10.392 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-03 22:02:10.392 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-03 22:02:10.584 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-05-03 22:02:10.588 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2478 ms
+2023-05-03 22:02:12.138 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+2023-05-03 22:02:12.215 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+2023-05-03 22:02:12.282 [main] INFO  c.f.r.engine.RuleEngineApplication - Started RuleEngineApplication in 5.461 seconds (process running for 6.047)
+2023-05-03 22:03:56.118 [http-nio-8000-exec-1] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-03 22:03:56.118 [http-nio-8000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-05-03 22:03:56.120 [http-nio-8000-exec-1] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 2 ms
+2023-05-03 22:03:56.356 [http-nio-8000-exec-1] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2023-05-03 22:05:33.725 [SpringApplicationShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2023-05-03 22:05:33.731 [SpringApplicationShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
+2023-05-03 22:12:50.435 [main] INFO  c.f.r.engine.RuleEngineApplication - Starting RuleEngineApplication using Java 17.0.7 with PID 8764 (E:\10_git\rule-engine\target\classes started by wiljz in E:\10_git\rule-engine)
+2023-05-03 22:12:50.442 [main] INFO  c.f.r.engine.RuleEngineApplication - The following 1 profile is active: "dev"
+2023-05-03 22:12:51.960 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.yomahub.liteflow.springboot.config.LiteflowMainAutoConfiguration' of type [com.yomahub.liteflow.springboot.config.LiteflowMainAutoConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:12:51.963 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.yomahub.liteflow.springboot.config.LiteflowPropertyAutoConfiguration' of type [com.yomahub.liteflow.springboot.config.LiteflowPropertyAutoConfiguration$$SpringCGLIB$$0] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:12:51.982 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'liteflow-com.yomahub.liteflow.springboot.LiteflowProperty' of type [com.yomahub.liteflow.springboot.LiteflowProperty] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:12:51.987 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'liteflow.monitor-com.yomahub.liteflow.springboot.LiteflowMonitorProperty' of type [com.yomahub.liteflow.springboot.LiteflowMonitorProperty] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:12:51.991 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'liteflowConfig' of type [com.yomahub.liteflow.property.LiteflowConfig] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:12:51.994 [main] INFO  o.s.c.s.PostProcessorRegistrationDelegate$BeanPostProcessorChecker - Bean 'com.yomahub.liteflow.spi.spring.SpringAware' of type [com.yomahub.liteflow.spi.spring.SpringAware] is not eligible for getting processed by all BeanPostProcessors (for example: not eligible for auto-proxying)
+2023-05-03 22:12:51.997 [main] INFO  c.yomahub.liteflow.util.LOGOPrinter - 
+================================================================================================
+		 _     ___ _____ _____      _____ _     _____        __
+		| |   |_ _|_   _| ____|    |  ___| |   / _ \ \      / /
+		| |    | |  | | |  _| _____| |_  | |  | | | \ \ /\ / / 
+		| |___ | |  | | | |__|_____|  _| | |__| |_| |\ V  V /  
+		|_____|___| |_| |_____|    |_|   |_____\___/  \_/\_/   
+
+		Version: 2.10.2
+		新一代轻量且强大的编排式规则引擎。
+		基于开源社区文化，社区驱动型开源框架。
+		Small but powerful rules engine.
+		官网地址：https://liteflow.yomahub.com/
+		wechat：bryan_31
+================================================================================================
+
+2023-05-03 22:12:52.746 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8000 (http)
+2023-05-03 22:12:52.762 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Initializing ProtocolHandler ["http-nio-8000"]
+2023-05-03 22:12:52.763 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2023-05-03 22:12:52.764 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/10.1.8]
+2023-05-03 22:12:52.972 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2023-05-03 22:12:52.978 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 2377 ms
+2023-05-03 22:12:53.081 [main] INFO  c.y.liteflow.spring.ComponentScanner - component[a] has been found
+2023-05-03 22:12:53.085 [main] INFO  c.y.liteflow.spring.ComponentScanner - component[b] has been found
+2023-05-03 22:12:53.086 [main] INFO  c.y.liteflow.spring.ComponentScanner - component[c] has been found
+2023-05-03 22:12:54.730 [main] INFO  c.yomahub.liteflow.core.FlowExecutor - flow info loaded from local file,path=config/flow.el.xml
+2023-05-03 22:12:55.046 [main] INFO  o.a.coyote.http11.Http11NioProtocol - Starting ProtocolHandler ["http-nio-8000"]
+2023-05-03 22:12:55.084 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8000 (http) with context path ''
+2023-05-03 22:12:55.117 [main] INFO  c.f.r.engine.RuleEngineApplication - Started RuleEngineApplication in 5.666 seconds (process running for 6.252)
+2023-05-03 22:13:01.985 [http-nio-8000-exec-2] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-05-03 22:13:01.985 [http-nio-8000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Initializing Servlet 'dispatcherServlet'
+2023-05-03 22:13:01.995 [http-nio-8000-exec-2] INFO  o.s.web.servlet.DispatcherServlet - Completed initialization in 4 ms
+2023-05-03 22:13:02.492 [http-nio-8000-exec-2] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} inited
+2023-05-03 22:13:03.225 [http-nio-8000-exec-2] INFO  c.yomahub.liteflow.core.FlowExecutor - slot[0] offered
+2023-05-03 22:13:03.230 [http-nio-8000-exec-2] INFO  c.yomahub.liteflow.core.FlowExecutor - requestId[d60a9cb407b4456794cb1c85ae400688] has generated
+2023-05-03 22:13:03.233 [http-nio-8000-exec-2] INFO  c.yomahub.liteflow.flow.element.Node - [d60a9cb407b4456794cb1c85ae400688]:[O]start component[a] execution
+2023-05-03 22:13:03.243 [http-nio-8000-exec-2] INFO  c.yomahub.liteflow.flow.element.Node - [d60a9cb407b4456794cb1c85ae400688]:[O]start component[b] execution
+2023-05-03 22:13:03.243 [http-nio-8000-exec-2] INFO  c.yomahub.liteflow.flow.element.Node - [d60a9cb407b4456794cb1c85ae400688]:[O]start component[c] execution
+2023-05-03 22:13:03.244 [http-nio-8000-exec-2] INFO  com.yomahub.liteflow.slot.Slot - [d60a9cb407b4456794cb1c85ae400688]:CHAIN_NAME[chain1]
+a<2>==>b<0>==>c<0>
+2023-05-03 22:13:03.244 [http-nio-8000-exec-2] INFO  com.yomahub.liteflow.slot.DataBus - [d60a9cb407b4456794cb1c85ae400688]:slot[0] released
+2023-05-03 22:23:52.390 [SpringApplicationShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closing ...
+2023-05-03 22:23:52.396 [SpringApplicationShutdownHook] INFO  c.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
